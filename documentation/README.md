@@ -1,7 +1,7 @@
 # What I have done?
 
 Ok, so I was focused on first user story, where I fetched all of the launches data for the ploting map. But unfortunately I did not able to render the map
-because it requires Google map API key. And I really dont know how to render google map without API key.
+because it requires Google map API key. I was kind of stuck because of the map API key. And I really dont know how to render google map without API key.
 
 ## If I had time.
 
