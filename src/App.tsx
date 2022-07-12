@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.scss";
+import Map from "./components/map/Map";
 
 const App = () => {
   return (
     <div className="App">
-      <h3>React - Typescript</h3>
+      <Map />
     </div>
   );
 };
